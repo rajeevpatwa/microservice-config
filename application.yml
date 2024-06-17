@@ -1,6 +1,6 @@
 spring:
     application:
-          name: spring-boot-config-server
+          name: config-default
 
 # Eureka client configurations
 eureka:
